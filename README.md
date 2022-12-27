@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @benderminguez89
-- 👀 I’m interested in physics, film, videogames, and music
-- 🌱 I’m currently pursuing a bachelors degree in Software Engineering from CSUSM
+- 🌱 I graduated with a bachelors degree in Software Engineering from CSUSM in May 2022
+- I am currently pursuing a masters degree in Computer Science, with an emphasis in VR
+- 👀 I’m interested in applying my knowledge and skills as a softare engineer to problems faced in physics, film, videogames, and music
 
-- 📫 How to reach me via email @domin217@cougars.csusm.edu
+
+
+- 📫 How to reach me via email: @domin217@cougars.edu
 
 <!---
 benderminguez89/benderminguez89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
